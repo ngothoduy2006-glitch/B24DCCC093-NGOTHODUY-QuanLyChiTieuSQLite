@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#00796B</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_container">#B2DFDB</color>
+    <color name="secondary">#FF7043</color>
+    <color name="background">#F2F5F7</color>
+    <color name="danger">#D32F2F</color>
+    <color name="money">#C62828</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="ic_launcher_background">#00796B</color>
+</resources>

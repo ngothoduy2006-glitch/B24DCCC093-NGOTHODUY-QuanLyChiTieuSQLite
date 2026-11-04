@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+
+    <!-- Đăng nhập -->
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="hint_username">Tên đăng nhập</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="login_sample_account">Tài khoản mẫu: admin / 123456</string>
+    <string name="error_login_empty">Vui lòng nhập tên đăng nhập và mật khẩu</string>
+    <string name="error_login_wrong">Sai tên đăng nhập hoặc mật khẩu</string>
+
+    <!-- Danh sách -->
+    <string name="main_title">Danh sách chi tiêu</string>
+    <string name="hint_search">Tìm theo tên khoản chi</string>
+    <string name="label_category">Danh mục</string>
+    <string name="total_summary">Tổng chi: %1$s  ·  %2$d khoản chi</string>
+    <string name="empty_list">Chưa có khoản chi nào</string>
+    <string name="btn_add_expense">Thêm khoản chi</string>
+    <string name="btn_statistics">Thống kê</string>
+
+    <!-- Thêm / Sửa -->
+    <string name="add_title">Thêm khoản chi</string>
+    <string name="edit_title">Sửa khoản chi</string>
+    <string name="btn_save_add">Lưu khoản chi</string>
+    <string name="btn_save_edit">Cập nhật khoản chi</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="hint_name">Tên khoản chi</string>
+    <string name="hint_amount">Số tiền (VNĐ)</string>
+    <string name="hint_note">Ghi chú (không bắt buộc)</string>
+    <string name="label_date">Ngày chi tiêu</string>
+    <string name="error_name_empty">Vui lòng nhập tên khoản chi</string>
+    <string name="error_amount_empty">Vui lòng nhập số tiền</string>
+    <string name="error_amount_invalid">Số tiền phải là số nguyên lớn hơn 0</string>
+    <string name="error_date_future">Không được chọn ngày sau ngày hiện tại</string>
+    <string name="toast_added">Đã thêm khoản chi</string>
+    <string name="toast_updated">Đã cập nhật khoản chi</string>
+    <string name="toast_save_failed">Lưu thất bại, vui lòng thử lại</string>
+    <string name="toast_not_found">Không tìm thấy khoản chi này</string>
+
+    <!-- Chi tiết -->
+    <string name="detail_title">Chi tiết khoản chi</string>
+    <string name="label_note">Ghi chú</string>
+    <string name="no_note">(Không có ghi chú)</string>
+    <string name="btn_edit">Sửa khoản chi</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa khoản chi</string>
+    <string name="dialog_delete_title">Xóa khoản chi</string>
+    <string name="dialog_delete_message">Bạn có chắc muốn xóa khoản chi “%1$s” không? Thao tác này không thể hoàn tác.</string>
+    <string name="dialog_cancel">Hủy</string>
+    <string name="dialog_delete">Xóa</string>
+    <string name="toast_deleted">Đã xóa khoản chi</string>
+
+    <!-- Thống kê -->
+    <string name="stats_title">Thống kê chi tiêu</string>
+    <string name="label_total_all">Tổng chi tiêu</string>
+    <string name="label_by_category">Chi tiêu theo danh mục</string>
+</resources>
